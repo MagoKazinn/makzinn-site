@@ -1,0 +1,57 @@
+body{
+    background-image: url(Imagem\ do\ WhatsApp\ de\ 2024-04-02\ à\(s\)\ 17.22.57_cc3c4443.jpg)
+}
+
+.Nome{
+    color: white;
+    display: flex;
+justify-content: center;
+}
+
+.get{
+    color: black;
+    display: flex;
+    justify-content: center;
+    font: inherit;
+    font-size: 20px;
+}
+
+.tutorial{
+    display: flex;
+    justify-content: center;
+    left: 50%;
+}
+
+button{
+    color: white;
+    border: 10px;
+    border-color: blue;
+    background-color: blue;
+    padding: 10px 8px;
+    width: 100px;
+    border-radius: 25px;
+    text-align: center;
+    justify-content: center;
+    border: 1px solid white; 
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: inherit;
+    font-size: 20px;
+    cursor: pointer;
+    }
+
+button:hover{
+    border: 1px solid red;
+    transform: scale(1.05);
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+}
